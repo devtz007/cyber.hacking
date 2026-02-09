@@ -5,7 +5,7 @@
 <p>Mohaiminul Tazim (devtz007)</p>
 <p>Full Stack Developer | Cyber Security Expert </p>
 <ul>
-  <li>Email: <a href="mailto:mail.devtz007@gmail.com">mail.devtz007@gmail.com</a></li>
+  <li>Email: <a href="mailto:dev.mohaiminul@gmail.com">dev.mohaiminul@gmail.com</a></li>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/devtz007/" target="_blank" rel="noopener noreferrer">linkedin.com/in/devtz007</a></li>
   <li>WhatsApp: <a href="https://wa.me/01307565052" target="_blank" rel="noopener noreferrer">8801307565052</a> (Message first)</li>
   <li>More about me: <a href="https://github.com/devtz007" target="_blank" rel="noopener noreferrer">https://github.com/devtz007</a></li>
